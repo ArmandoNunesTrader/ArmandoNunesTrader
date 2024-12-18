@@ -1,4 +1,4 @@
-### Obrigado por estar aqui! 👋
+# Obrigado por estar aqui! 👋
 
 ## **Eu sou Armando Jorge R. Nunes**
 - Resido atualmente em :european_castle: Petrópolis, Região Serrana do Rio de Janeiro 🇧🇷
