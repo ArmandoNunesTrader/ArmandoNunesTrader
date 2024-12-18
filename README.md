@@ -1,7 +1,7 @@
 # Obrigado por estar aqui! 👋
 
 ## **Eu sou Armando Jorge R. Nunes**
-- Resido atualmente em :european_castle: Petrópolis, Região Serrana do Rio de Janeiro 🇧🇷
+- Resido atualmente em Petrópolis :european_castle:, Região Serrana do Rio de Janeiro 🇧🇷
 - Atuo como consultor de tecnologia e desenvolvedor e arquiteto de sistemas :desktop_computer:
 - Hoje estou remodelando minha carreira e buscando aprimorar conhecimentos em Ciência de Dados :laughing: e Python :satisfied:
 
