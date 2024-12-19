@@ -19,18 +19,31 @@
   <img align="center" alt="Armando Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" style="max-with:100%;">
 </a>
 
+
 ## **Estudando e Ampliando o Conhecimento**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/user-attachments/assets/4a58586f-2dcb-4d2e-8ea3-6d4be32fdef0" alt="Flask" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/user-attachments/assets/0d232d02-dac6-473b-9c5a-9fd3f57cafcb" alt="Jupyter" width="40" height="40" style="max-width:100%;"></img>
 
 ## **Conheça as Minhas Publicações**
 <a href="https://medium.com/@armandojorge.trader" target="_blank">
-  <img align="center" alt="Armando Instagram" height="30" width="40" src="https://github.com/user-attachments/assets/2ce365d3-c273-4d0e-9bf5-4ce618915ecb" style="max-with:100%;">
+  <img align="center" alt="Armando Instagram" height="68" width="90" src="https://github.com/user-attachments/assets/2ce365d3-c273-4d0e-9bf5-4ce618915ecb" style="max-with:100%;">
 </a>
 
+[Brainstorming System](https://medium.com/@armandojorge.trader/brainstorming-system-e31cb38062db)
+
+---
+
+<img src="https://github.com/user-attachments/assets/eb7af1a4-0ba6-41f6-80e6-c01f8497ea8f" alt="Scribd" width="137" height="32" style="max-width:100%;"></img>
+
 [Brainstorming System](https://pt.scribd.com/document/806388380/Brainstorming-System-Usando-o-Event-Storming-para-conhecer-um-dominio-de-negocio)
+
 [Padrões de Software e Arquitetura](https://www.scribd.com/document/806390073/Padroes-de-Software-e-Arquitetura)
+
+---
+
 
 ## **Minhas Habilidades**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
@@ -42,6 +55,7 @@
 <img src="https://github.com/user-attachments/assets/56eef09a-c0eb-465f-98dd-180022ad87f9" alt="Excel" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/user-attachments/assets/9a6d53aa-e562-408d-b41b-392c0009aed9" alt="VBA" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="max-width:100%;"></img>
+
           
 ## **Outras Habilidades**
 <img src="https://img.icons8.com/tiny-color/256/github.png" alt="Github" width="40" height="40" style="max-width:100%;"></img>
