@@ -23,6 +23,10 @@
 <img src="https://github.com/user-attachments/assets/4a58586f-2dcb-4d2e-8ea3-6d4be32fdef0" alt="Flask" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40" style="max-width:100%;"></img>
 
+## **Minhas Publicações**
+
+[BRAINSTORMING SYSTEM](https://pt.scribd.com/document/806388380/Brainstorming-System-Usando-o-Event-Storming-para-conhecer-um-dominio-de-negocio)
+
 ## **Minhas Habilidades**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" style="max-width:100%;"></img>
