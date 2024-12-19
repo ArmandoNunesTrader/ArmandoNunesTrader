@@ -17,15 +17,20 @@
 </a>
 <a href="https://www.facebook.com.com/armandojrnunes/" target="_blank">
   <img align="center" alt="Armando Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" style="max-with:100%;">
+</a>
 
 ## **Estudando e Ampliando o Conhecimento**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/user-attachments/assets/4a58586f-2dcb-4d2e-8ea3-6d4be32fdef0" alt="Flask" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40" style="max-width:100%;"></img>
 
-## **Minhas Publicações**
+## **Conheça as Minhas Publicações**
+<a href="https://medium.com/@armandojorge.trader" target="_blank">
+  <img align="center" alt="Armando Instagram" height="30" width="40" src="https://github.com/user-attachments/assets/2ce365d3-c273-4d0e-9bf5-4ce618915ecb" style="max-with:100%;">
+</a>
 
-[BRAINSTORMING SYSTEM](https://pt.scribd.com/document/806388380/Brainstorming-System-Usando-o-Event-Storming-para-conhecer-um-dominio-de-negocio)
+[Brainstorming System](https://pt.scribd.com/document/806388380/Brainstorming-System-Usando-o-Event-Storming-para-conhecer-um-dominio-de-negocio)
+[Padrões de Software e Arquitetura](https://www.scribd.com/document/806390073/Padroes-de-Software-e-Arquitetura)
 
 ## **Minhas Habilidades**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
